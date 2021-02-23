@@ -1,0 +1,23 @@
+.cyber-news-ctn {
+  margin-right: 0px;
+  width: 60vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  border-left: 2px solid white;
+  padding: 0vmin 2vmin;
+  color: white;
+  overflow: scroll;
+}
+
+.cyber-news-row {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  height: auto;
+}
+
+.cyber-news-ctn p {
+  font-size: 1.5vmin;
+  line-height: 2vmin;
+}
